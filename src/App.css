@@ -1,0 +1,46 @@
+
+.contaniner{
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.35);
+  backdrop-filter: blur(200px);
+  border-radius: 10px;
+}
+.wappers{
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+.user-first{
+  padding: 2em 8em;
+}
+.user-second{
+  padding: 2em 8em;
+}
+h2{
+  text-transform: uppercase;
+  font-weight: 500;
+}
+h3{
+  color: #c7365f;
+  font-size: 36px;
+  font-weight: 600;
+}
+h4{
+  color: white;
+  font-size: 26px;
+  font-weight: 600;
+  background-color: #c7365f;
+}
+.main{
+  padding: 10px;
+}
+.btn-roll{
+  background-color: rgba(255, 255, 255, 0.548);
+  border-radius: 20px;
+  border: none;
+  padding: 5px 30px;
+}
+.btn-roll:hover{
+  background-color: rgba(255, 255, 255, 0.226);
+
+}
